@@ -19,7 +19,7 @@ version = 0.1
 
 # (list) Application requirements
 # Yahan sirf basic libraries rakhi hain taaki build fail na ho
-requirements = python3,kivy==2.3.0,hostpython3,requests,certifi
+requirements = python3,kivy==2.3.0,hostpython3,requests,certifi,urllib3
 
 # (str) Icon of the application
 icon.filename = icon.png
